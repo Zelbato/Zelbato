@@ -1,10 +1,7 @@
-## Hi there 👋
+## Olá! Eu sou Heitor Zelbato
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Fronr-End Junior
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Hoje trabalho com Fronr-End 
+- 📕 Estudando PHP
+- 📫 Contate-me: heitorzelbato@gmail.com
+- 😄 Pronouns: ele/dele
 
