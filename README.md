@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Heitor Zelbato 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heitor.a_ndre)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heitor__a.ndre)
 
 ## Tecnologias que eu uso no meu dia
 
