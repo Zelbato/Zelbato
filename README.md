@@ -1,6 +1,6 @@
-#Olá! Sou Heitor Zelbato 
+Olá! Sou Heitor Zelbato 
 
-#Desenvolvedor Front-End
+Desenvolvedor Front-End
 
 📕 Estudando PHP
 📫 Contate-me: heitorzelbato@gmail.com
