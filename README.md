@@ -9,11 +9,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact)<br>
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que utilizo!!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,tailwind,mysql,php,vscode)](https://skillicons.dev)
   
-  
+  ## Outras tecnologias
+
+  [![My Skills](https://skillicons.dev/icons?i=js,ps,ai,figma,androidstudio)](https://skillicons.dev)
  
 </div><br/>
 
