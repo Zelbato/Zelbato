@@ -5,7 +5,8 @@
 
 ## Estatísticas
 
-![Estatísticas do Zelbato GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical)
+![Estatísticas do Zelbato GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact)<br>
 
 
 ## Tecnologias que eu uso no meu dia
@@ -21,5 +22,5 @@
  
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact)<br>
+
 
