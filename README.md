@@ -5,9 +5,12 @@
 
 ## Estatísticas
 
-![Estatísticas do Zelbato GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical) ![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact&langs_count=6&theme=radical"/>
+<div aling="center">
 
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact&langs_count=6&theme=radical"/>
 
+</div>
 
 ## Tecnologias que utilizo!!
 
