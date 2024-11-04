@@ -5,7 +5,7 @@
 
 ## Estatísticas
 
-![Estatísticas do Zelbato GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact)<br>
+![Estatísticas do Zelbato GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical) ![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact&langs_count=6&theme=radical"/>
 
 
 
