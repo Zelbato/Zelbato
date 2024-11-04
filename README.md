@@ -11,11 +11,11 @@
 
 ## Tecnologias que utilizo!!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,tailwind,mysql,php,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,tailwind,mysql,php)](https://skillicons.dev)
   
   ## Outras tecnologias
 
-  [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,androidstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,androidstudio,vscode)](https://skillicons.dev)
  
 </div><br/>
 
