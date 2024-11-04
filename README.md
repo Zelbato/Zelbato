@@ -5,8 +5,8 @@
 
 ## Estatísticas
 
-![Estatísticas do Zelbato GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact)<br>
+![Estatísticas do Zelbato GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact)<br>
+
 
 
 ## Tecnologias que utilizo!!
@@ -15,7 +15,7 @@
   
   ## Outras tecnologias
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ps,ai,figma,androidstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,androidstudio)](https://skillicons.dev)
  
 </div><br/>
 
