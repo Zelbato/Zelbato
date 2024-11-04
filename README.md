@@ -18,19 +18,10 @@
   [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,androidstudio)](https://skillicons.dev)
  
 </div><br/>
-### GitHub Streak 🔥
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Fransuelton&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
+![](https://komarev.com/ghpvc/?username=Zelbato&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
 </div>
 
 
