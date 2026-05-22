@@ -1,9 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:062B1F&text=HEITOR%20ZELBATO&fontSize=42&fontColor=3DF3AE&animation=fadeIn&fontAlignY=38&desc=Perfil%20inspirado%20na%20Steam&descAlignY=58"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -56,19 +50,6 @@ Sistema..........: Online
 
 ---
 
-# Conquistas
-
-```bash
-[✓] Aplicações Full-Stack
-[✓] APIs RESTful
-[✓] Interfaces modernas
-[✓] Angular + Laravel
-[✓] Banco de dados MySQL
-[✓] Aprendizado contínuo
-```
-
----
-
 # Atividade Recente
 
 <div align="center">
@@ -101,41 +82,10 @@ Sistema..........: Online
 
 </div>
 
----
-
-# Tempo de Atividade
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Zelbato&theme=chartreuse-dark&hide_border=true&background=000000&ring=3DF3AE&fire=3DF3AE&currStreakLabel=3DF3AE"/>
-
-</div>
-
----
-
 # Visualizações do Perfil
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Zelbato&style=for-the-badge&color=3DF3AE"/>
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-> SYSTEM ACTIVE...
-> READY FOR NEW PROJECTS
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:062B1F"/>
 
 </div>
