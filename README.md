@@ -1,66 +1,22 @@
-# Olá! Eu sou o Heitor Zelbato 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;Angular+%7C+Laravel+%7C+PHP;Sempre+aprendendo+novas+tecnologias" />
-</p>
-
----
-
-## 🌐 Redes Sociais
-
-<p align="center">
-  <a href="https://instagram.com/heitor__a.ndre" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/heitor-zelbato-9693a92a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:heitorzelbato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 📊 Estatísticas GitHub
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+# HEITOR ZELBATO
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Angular+%2B+Laravel;PHP+%7C+MySQL+%7C+TypeScript;Always+learning+new+technologies" />
 
-</div>
+<br>
 
----
+<a href="https://instagram.com/heitor__a.ndre" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
 
-# 🚀 Tecnologias que utilizo
+<a href="https://www.linkedin.com/in/heitor-zelbato-9693a92a0/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap,php,laravel,mysql)](https://skillicons.dev)
-
-</div>
-
----
-
-# 🛠️ Outras Tecnologias e Ferramentas
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,androidstudio,vscode,git,github)](https://skillicons.dev)
-
-</div>
-
----
-
-# 👀 Visitantes
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Zelbato&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL&color=blueviolet)
+<a href="mailto:heitorzelbato@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
@@ -68,6 +24,114 @@
 
 <div align="center">
 
-### 💻 "Transformando ideias em código todos os dias."
+## About Me
+
+</div>
+
+```txt
+Developer focused on building modern and scalable applications.
+
+Main stack:
+- Angular
+- Laravel
+- PHP
+- TypeScript
+- MySQL
+
+Goal:
+Create high quality systems while constantly evolving
+as a Full-Stack Developer.
+```
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,php,laravel,mysql,html,css,sass,tailwind,bootstrap,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Analytics
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zelbato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&ring_color=8A2BE2"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelbato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="76%" src="https://streak-stats.demolab.com?user=Zelbato&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Main Technologies
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55"/><br>
+Angular
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55"/><br>
+Laravel
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/><br>
+PHP
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/><br>
+TypeScript
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br>
+MySQL
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=Zelbato&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+"Transforming ideas into modern and efficient systems."
+```
 
 </div>
